@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color:#546382;
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	color:antiquewhite;
+}
+#wrapper{
+	width:690px;
+	margin-left:175px;
+	margin-right:95px;
+}
+header{
+	
+}
+section{
+	font:"Myriad Pro";
+}
+#orgins{
+	font-size-adjust:22;
+	margin-left:86px;
+	marin-top:690px;
+}
+small{
+	font-size:0.7em;
+	margin-bottom:20px;
+	display:block;
+	margin-top:66px;
+	color:#d1d1bd;
+}
+h1{
+	font-size:2.5em;
+	font-weight:bold;
+	margin-bottom:28px;
+	color:#d1d1bd;
+}
+h2{
+	color:#d1d1bd;
+}
+h3{
+	color:#f2f1e8;
+	
+}
+h4{
+	color:#ffffff;
+}
+footer{
+	color:white;
+}
+bold{
+	color:#d1d1bd;
+}
