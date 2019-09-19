@@ -20,6 +20,7 @@ section{
 	font-size-adjust:22;
 	margin-left:86px;
 	marin-top:690px;
+	margin-bottom:50px;
 }
 small{
 	font-size:0.7em;
@@ -35,6 +36,7 @@ h1{
 	color:#d1d1bd;
 }
 h2{
+	margin-bottom:64px;
 	color:#d1d1bd;
 }
 h3{
