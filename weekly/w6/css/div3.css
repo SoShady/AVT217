@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+width:960px;
+}
+
+#logo{
+	border-top:18px;
+	width:160px;
+	border-left:10px;
+	float:left;
+}
+
+nav{
+	width:658px;
+	margin-left:132px;
+	margin-top:49px;
+	float:left;
+	
+}
+
+li{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display:inline;
+	margin-left:28px;
+}
+
+main{
+	width:960px;
+}
+
+.collumn{
+	width:220px;
+	margin-top:36px;
+	margin-left:10px;
+	margin-right:10px;
+	float:left;
+}
+
+footer{
+	clear:both;
+	margin-left:10px;
+	width:950px;
+	
+}
+
