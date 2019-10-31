@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+header
+{
+	text-align:center;
+	allign-content:center;
+	background-image:url("../img/burgerfiltered.png");
+	padding-bottom:150px;
+	
+}
+
+#wrapper
+{
+	margin:auto;
+	width:1028px;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+body
+{
+margin:auto;
+background-image:url("../img/raw-wooden-texture-background_70714-72.jpg");	
+	
+}
+
+.collumn
+{
+	width:478px;
+	padding-left:100px;
+	float:left;
+	align-content:center;
+}
+
+.collumn2
+{
+	padding-top:100px;
+	width:400px;
+	padding-left:30px;
+	float:left;
+	align-content:center;
+
+}
+
+.mainnav
+{
+	align-content:center;
+
+}
+
+li
+{
+	display:inline;
+	padding-right:100px;
+	padding-left:50px;
+	font-size:30px;
+}
+
+nav
+{
+	width:50;
+	background-color: rgba(248,248,248,0.5);
+	overflow: hidden;
+	margin: 0 auto;
+	align-content:center;
+	
+}
+
+p
+{
+	font-size:36px;
+	allign-text:center;
+}
+
+b
+{
+	color:#cc0022;
+}
+.topcontent
+{
+	padding-left:-10px;
+	font-size:72px;
+	background-color:rgba(248,248,248,0.5);
+	overflow: hidden;
+}
+
+img
+{
+	padding-top:125px;
+	padding-bottom:125px;
+}
+
+h1
+{
+	background-color: rgba(248,248,248,0.5);
+	overflow: hidden;
+	margin: 0 auto;
+	font-size:42px;
+}
+
+h2
+{
+	background-color: rgba(248,248,248,0.5);
+	overflow: hidden;
+	margin: 0 auto;
+	font-size:24px;
+}

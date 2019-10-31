@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+header
+{
+	margin:auto;
+	width:50%;
+	text-align:center;
+}
+body
+{
+	background-image:url("../img/raw-wooden-texture-background_70714-72.jpg");
+	
+}
+#wrapper
+{
+	margin:auto;
+	width:800px;
+}
+
+h1
+{
+font-family: 'Dosis', sans-serif;
+	
+
+}
+h2
+{
+	font-family: 'Dosis', sans-serif;
+	text-align:center;
+	
+}
+h3
+{
+	clear:both;
+	color:#cc0022;
+	text-align:center;
+	font-size:24px;
+}
+
+li
+{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display:block;
+	padding-bottom:5px;
+
+}
+
+p
+{
+width:200px;
+	
+}
+
+b
+{
+font-family: 'Dosis', sans-serif;
+}
+
+em
+{
+		
+}
+
+main
+{
+	
+	background-color: rgba(248,248,248,0.5);
+	overflow: hidden;
+	margin: 0 auto;
+	
+	
+}
+.menucontent
+{
+	width:250px;
+	margin-top:-5px;
+	float:left;
+	font-size:15px;
+	align-content:center;
+}
+.price
+{
+	float:right;
+}
+.collumn
+{
+	width:300px;
+	padding-left:20px;
+	padding-right:10px;
+	float:left;
+	align-content:center;
+	font-family: 'Dosis', sans-serif;
+}
+.collumn2
+{
+	width:400px;
+	padding-left:40px;
+	float:left;
+	align-content:center;
+	font-family: 'Dosis', sans-serif;
+}
